@@ -1,4 +1,4 @@
 import spel
 
 spel.info()
-spel.kasteel()
+spel.start()

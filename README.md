@@ -1,5 +1,7 @@
 # spel
 
-## State Diagram
+## Run
 
-![State Diagram](diagram.png)
+```
+python main.py
+```
